@@ -1,13 +1,13 @@
 # 👋 你好 / こんにちは / Hello, I'm Rousong (∩^o^)⊃━☆
 
 我是一名常驻日本的软件工程师，始终相信——**“最好的语言，就是能帮你实现目标的那一个。”**  
-没有偏爱的编程语言，只有合适的工具。目前我特别喜欢 [Flutter](https://flutter.dev)，它让我用一套代码构建跨平台的高质量应用。(๑•̀ㅂ•́)و✧
+没有偏爱的编程语言，只有合适的工具。目前我专注于 [Flutter](https://flutter.dev)，它让我用一套代码构建跨平台的高质量应用。(๑•̀ㅂ•́)و✧
 
 私は日本在住のソフトウェアエンジニアです。常に信じている言葉は、**「最高の言語とは、目的を達成できる言語だ」**。  
-特定の言語にこだわらず、目的に応じた最適なツールを選びます。最近は [Flutter](https://flutter.dev) に夢中で、1つのコードベースで複数のプラットフォームに対応できるのが魅力です。(๑•̀ㅂ•́)و✧
+特定の言語にこだわらず、目的に応じた最適なツールを選びます。最近は [Flutter](https://flutter.dev) に専念しで、1つのコードベースで複数のプラットフォームに対応できるのが魅力です。(๑•̀ㅂ•́)و✧
 
 I'm a software engineer based in Japan who firmly believes: **"The best programming language is the one that helps you achieve your goals."**  
-Rather than favoring any single language, I choose the right tools for each job. Lately, I’ve been loving [Flutter](https://flutter.dev) for its ability to build cross-platform apps from a single codebase. (๑•̀ㅂ•́)و✧
+Rather than favoring any single language, I choose the right tools for each job. Lately, I‘m focused on [Flutter](https://flutter.dev) for its ability to build cross-platform apps from a single codebase. (๑•̀ㅂ•́)و✧
 
 ---
 
