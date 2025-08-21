@@ -8,6 +8,13 @@ I'm a software engineer based in Japan who firmly believes:
 **"The best programming language is the one that helps you achieve your goals."**  
 Rather than favoring any single language, I choose the right tools for each job.(๑•̀ㅂ•́)و✧
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
 
 ## 🎯 Interests
 - 🎮 I enjoy playing video games to relax  
