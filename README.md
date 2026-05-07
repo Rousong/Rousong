@@ -1,8 +1,5 @@
 # 👋 你好 / こんにちは / Hello, I'm Rousong (∩^o^)⊃━☆
 
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rousong&count_private=true&show_icons=true&theme=tokyonight" alt="Who is Rousong" width="400px">
-</a>
 I'm a software engineer based in Japan who firmly believes:
 
 **"The best programming language is the one that helps you achieve your goals."**  
